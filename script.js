@@ -51,7 +51,7 @@ function handleSubmit(event) {
           },
           body:jsonData   
       }).then(res => res.json())
-      .then(result => console.log(result))
+      .then(result => alert("sucessfully added")(result))
       .catch(err => console.log(err))
 } 
 
