@@ -1,0 +1,22 @@
+form{
+    padding: 100px;
+}
+input {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline;
+    border: 2px solid rgb(127, 123, 123);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button{
+    border:none;
+    outline: none;
+    padding:16px 50px;
+    background:#ff5945 ;
+    color:#fff;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 40px;
+}
